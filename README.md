@@ -26,7 +26,7 @@ Crucially, it uses **Binarized Mean Squared Error (MSE)** on a cropped area of t
 
 See the script in action—check out the fluidity of the scroll and the **precise, immediate stop** when the end of the list is detected:
 
-![2025-11-12-18-03-17-_online-video-cutter com_](https://github.com/user-attachments/assets/39e29f97-911c-40c7-abf9-f31abc77b595)
+<img src="https://github.com/user-attachments/assets/39e29f97-911c-40c7-abf9-f31abc77b595" width="500">
 
 ---
 
